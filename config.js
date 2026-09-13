@@ -4,7 +4,7 @@ const Config = {
     BOT_TOKEN : "8993366576:AAHUsPShDLA2mzxAHaIJr3KVxk8FKqo9s20",
     OWNER_ID : 8462359928,
     CHANNEL_URL : "https://t.me/DevsHubChat",
-    CHANNEL_IDS : [-1003500235841],
+    CHANNEL_IDS : [-1002541457740],
     MONGO_DB : "mongodb+srv://Akatsumo:01psB3hxMeGIebgv@cluster0.6t7raqw.mongodb.net/?appName=Cluster0",
 };
 
