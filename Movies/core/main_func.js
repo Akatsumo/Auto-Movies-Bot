@@ -1,5 +1,6 @@
 const { Markup } = require("telegraf");
 const Config = require("../../config");
+const { Button } = require("telegram/tl/custom/button");
 
 
 
