@@ -1,0 +1,44 @@
+{
+  "name": "auto-movies-bot",
+  "description": "",
+  "keywords": ["telegram", "telegram-bot"],
+  "repository": "https://github.com/Akatsumo/Auto-Movies-Bot",
+  "success_url": "https://t.me/DevsHubChat",
+  "env": {
+    "API_ID": {
+      "description": "Telegram API ID from my.telegram.org",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Telegram API Hash from my.telegram.org",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Bot token from BotFather",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Telegram User ID of the owner (space separated if multiple)",
+      "required": true
+    },
+    "MONGO_DB": {
+      "description": "MongoDB connection URI (MongoDB Atlas recommended)",
+      "required": true
+    },
+    "SUPPORT_CHANNEL": {
+      "description": "Telegram support group/channel link",
+      "required": false
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}

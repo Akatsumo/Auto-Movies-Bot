@@ -1,0 +1,25 @@
+{
+  "name": "auto-movies-bot",
+  "version": "1.0.0",
+  "description": "Professional Telegram Auto Movies Bot",
+  "main": "Movies/index.js",
+  "scripts": {
+    "start": "node Movies/index.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.5.0",
+    "telegraf": "^4.16.3",
+    "telegram": "^2.26.22"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "keywords": [
+    "telegram-bot",
+    "movies-bot",
+    "telegraf",
+    "mongodb"
+  ],
+  "author": "Akatsumo",
+  "license": "GNU"
+}
