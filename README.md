@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Auto Movies Bot
+#  ᴀᴜᴛᴏ ᴍᴏᴠɪᴇꜱ ʙᴏᴛ
 
 > *Auto Movies Bot is a Telegram bot that lets users search and stream movies/web series directly in chat. Built with Telegraf, GramJS, and MongoDB.*
 
@@ -23,6 +23,15 @@
 
 ---
 
-<h2 align="center">ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ</h2>
+<h2 align="center">✨ ꜰᴇᴀᴛᴜʀᴇꜱ ✨</h2>
 
-<details id="vps-deployment">
+<p align="center">
+
+⦁ 🔍 ꜱᴍᴀʀᴛ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄ ᴡɪᴛʜ ɪɴꜱᴛᴀɴᴛ ʀᴇꜱᴜʟᴛꜱ
+⦁ 📦 ʙᴜʟᴋ ʙᴀᴛᴄʜ ɪɴᴅᴇxɪɴɢ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟꜱ
+⦁ 🔐 ꜰᴏʀᴄᴇ ꜱᴜʙꜱᴄʀɪʙᴇ ꜱᴜᴘᴘᴏʀᴛ
+⦁ 📊 ꜱᴛᴀᴛꜱ, ᴜꜱᴇʀ ɪɴꜰᴏ, ᴀɴᴅ ᴀᴅᴍɪɴ ᴄᴏɴᴛʀᴏʟꜱ
+⦁ ⚡ ꜰᴀꜱᴛ ᴍᴏɴɢᴏᴅʙ-ᴘᴏᴡᴇʀᴇᴅ ꜱᴇᴀʀᴄʜ
+⦁ 🗑️ ᴀᴜᴛᴏ-ᴅᴇʟᴇᴛᴇ ᴍᴇꜱꜱᴀɢᴇꜱ ꜰᴏʀ ᴄᴏᴘʏʀɪɢʜᴛ ꜱᴀꜰᴇᴛʏ
+ꜱᴛᴀᴄᴋ: ɴᴏᴅᴇ.ᴊꜱ, ᴛᴇʟᴇɢʀᴀꜰ, ɢʀᴀᴍᴊꜱ, ᴍᴏɴɢᴏᴅʙ ᴀᴛʟᴀꜱ, ʜᴇʀᴏᴋᴜ
+</p>
