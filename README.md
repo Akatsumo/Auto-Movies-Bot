@@ -5,7 +5,7 @@
 > *Auto Movies Bot is a Telegram bot that lets users search and stream movies/web series directly in chat. Built with Telegraf, GramJS, and MongoDB.*
 
 <p align="center">
-  <img src="https://i.ibb.co/B51GGLwk/43bf7589463203c278d2351b8b02c677.jpg" alt="girl-image" border="0">
+  <img src="https://tmp-beta-nine-62.vercel.app/file/NDky.jpg" alt="girl-image" border="0">
 </p>
 </div>
 
