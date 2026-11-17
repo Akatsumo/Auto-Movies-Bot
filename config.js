@@ -4,9 +4,7 @@ const Config = {
     BOT_TOKEN: process.env.BOT_TOKEN || "",
     OWNER_ID: Number(process.env.OWNER_ID) || 8462359928,
     CHANNEL_URL: process.env.CHANNEL_URL || "https://t.me/DevsHubChat",
-    CHANNEL_IDS: process.env.CHANNEL_IDS
-        ? process.env.CHANNEL_IDS.split(",").map(Number)
-        : [],
+    CHANNEL_IDS: process.env.CHANNEL_IDS ? process.env.CHANNEL_IDS.split(",").map(Number) : [],
     MONGO_DB: process.env.MONGO_DB || "",
 };
 
