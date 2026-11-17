@@ -5,7 +5,7 @@
 > *Telegram bot that lets users search and stream movies/web series directly in chat. Built with Telegraf, GramJS, and MongoDB.*
 
 <p align="center">
-  <img src="https://fliik-tau.vercel.app/file/MTI.jpg" alt="" border="0">
+  <img src="https://files.catbox.moe/s9ds3f.jpg" alt="" border="0">
 </p>
 </div>
 
